@@ -1,0 +1,1 @@
+ Run mvn install to check results. (not clean install). It will compile only changed files.
